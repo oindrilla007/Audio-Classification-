@@ -1,1 +1,1 @@
-﻿# Audio-Classification
+This project uses machine learning to classify urban sounds from the UrbanSound8K dataset. The audio features are extracted using MFCC (Mel Frequency Cepstral Coefficients), a widely used technique for feature extraction in audio processing. A deep learning model (typically a neural network) is then trained on these features to classify sounds into different categories.
